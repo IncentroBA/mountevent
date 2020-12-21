@@ -22,4 +22,4 @@ Not available yet.
 https://github.com/IncentroBA/mountevent/issues
 
 ## Development and contribution
-Bart Onstee
+[Bart Onstee](https://github.com/bartonstee)
